@@ -11,49 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Plymouth State University, 2018
+* M.S. in Computer Science, University of Southern California, 2021
+* Ph.D in Computer Science, University of Southern California, 2024 (expected)
+  * Advised by Shanghua Teng 
 
-Work experience
+Reviewer Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ISAAC
+  * 2020
+* SIGCSE
+  * 2023 and 2024
+* CCSCNE
+  * 2023
+  
+Other Service
+======
+* CS PhD Council, Fall 2019 - Spring 2020
+* CS Theory Lunch Organizer, Fall 2019 - Spring 2020
+* USC Discovery Program, Summer 2019
+  * A 2 week summer program for students from the underserved areas around USC
+* USC Grade Appearl Committee, Spring 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards
+======
+* USC Best Research Assistant, 2022
   
-Skills
+Talks (outside of publication venues)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Combinatorial Game Theory Seminar
+  * Title: Disjunctive Sums of Quasinimbers are hard
+  * September 21st, 2023
+  *	Based on paper currently being written with Kyle Burke, Svenja Huntemann, and Shanghua Teng
+  * The seminar hosts around 5-7 talks a year
+* UT Austin Theory Group
+  *	Title: Winning the War by (Strategically) Losing Battles: Settling the Complexity of Grundy-Values in Undirected Geography
+  *	Date: March 11th, 2022
+  * Based on the FOCS publication
+* UC Irvine Theory Group 
+  *	Title: Winning the War by (Strategically) Losing Battles: Settling the Complexity of Grundy-Values in Undirected Geography
+  *	Date: November 5th, 2021
+  *	Based on the FOCS publication
+* Canadian Mathematical Society Summer Meeting 2021
+  *	Title: Quantum Combinatorial Games: Structures and Computational Complexity
+  *	Date: June 7th, 2021
+  *	Based on the (at the time) yet to be published manuscript, now a FUN paper
+* International Combinatoiral Game Colloquium
+  *	Title: Slimetrail is PSPACE-Complete
+  *	January 14nd, 2019
+  * Based on the unpublished manuscript
+* Sprouts 2018
+  * Title: Slimetrail is PSPACE-Complete
+  * Datte: April 14th, 2018
+  *	Based on the unpublished manuscript
+* Sprouts 2017
+  * Title: Applying Heuristics in Combinatorial Games
+  * Date: April 29th, 2017
+  *	Description: Using heuristic strategies currently applied in Chess and Go to learn about combinatorial games.
