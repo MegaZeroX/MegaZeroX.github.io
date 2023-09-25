@@ -18,12 +18,10 @@ Education
 
 Reviewer Experience
 ======
-* ISAAC
-  * 2020
-* SIGCSE
-  * 2023 and 2024
-* CCSCNE
-  * 2023
+* SIGCSE 2024
+* CCSCNE 2023
+* SIGCSE 2023
+* ISAAC 2020
   
 Other Service
 ======
