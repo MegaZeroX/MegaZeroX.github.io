@@ -10,8 +10,7 @@ redirect_from:
 
 My research is primarily in CS Theory and CS Education. In CS Theory, my research mostly focuses on computational questions involving Combinatorial Game Theory. In CS Education, my interests are broad, but particular areas of interest are alternative grading schemes, classroom interventions, and increasing classroom diversity/inclusivity.
 
-Teaching
-======
+## Teaching
 
 * University of California Los Angeles
   * [Com Sci 180: Algorithms and Complexity](https://catalog.registrar.ucla.edu/course/2022/comsci180?siteYear=2022)
