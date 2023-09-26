@@ -57,6 +57,3 @@ My research is primarily in CS Theory and CS Education. In CS Theory, my researc
 *	Natalia Pinpin (now at Ezoic)
 *	Freddy Reibar (now at Boston University)
 *	Arushi Arora (current student)
-
-
-{: reversed="reversed"}
