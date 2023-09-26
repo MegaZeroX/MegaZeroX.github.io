@@ -34,7 +34,7 @@ My research is primarily in CS Theory and CS Education. In CS Theory, my researc
   * Kyle W. Burke, **Matthew Ferland**, and Shang-Hua Teng. "Quantum-Inspired Combinatorial Games: Algorithms and Complexity." In 11th International Conference on Fun with Algorithms (FUN 2022). Schloss Dagstuhl-Leibniz-Zentrum für Informatik, 2022.
 0. [Student misconceptions of dynamic programming: a replication study](https://www.tandfonline.com/doi/abs/10.1080/08993408.2022.2079865)
   * Michael Shindler, Natalia Pinpin, Mia Markovic, Frederick Reiber, Jee Hoon Kim, Giles Pierre Nunez Carlos, Mine Dogucu *et al**. "Student misconceptions of dynamic programming: a replication study." Computer Science Education 32, no. 3 (2022): 288-312.
-    [Winning the war by (strategically) losing battles: Settling the complexity of grundy-values in undirected geography](https://www.computer.org/csdl/proceedings-article/focs/2022/205500b217/1Btfu7v984w)
+0. [Winning the war by (strategically) losing battles: Settling the complexity of grundy-values in undirected geography](https://www.computer.org/csdl/proceedings-article/focs/2022/205500b217/1Btfu7v984w)
   * Kyle W. Burke, **Matthew Ferland**, and Shang-Hua Teng. "Winning the war by (strategically) losing battles: Settling the complexity of grundy-values in undirected geography." In 2021 IEEE 62nd Annual Symposium on Foundations of Computer Science (FOCS), pp. 1217-1228. IEEE, 2022. DOI: 10.1109/FOCS52979.2021.00119
 0. [Transverse Wave: An impartial color propagation game inspired by social influence and quantum nim](https://www.degruyter.com/document/doi/10.1515/9783110755411-003/html)
   * Kyle W. Burke, **Matthew Ferland**, and Shang-Hua Teng. "Transverse Wave: An impartial color propagation game inspired by social influence and quantum nim." Integers, 21B:A3, 30, 2021
@@ -42,4 +42,10 @@ My research is primarily in CS Theory and CS Education. In CS Theory, my researc
   * Kyle W. Burke, **Matthew Ferland**, Michael Fisher, Valentine Gledel, and Craig Tennenhouse. “The Game of Blocking Pebbles.” Integers, 21B:A2, 30, 2021
 0. [Experience Report: Preemptive Final Exams for Computer Science Theory Classes](https://dl.acm.org/doi/abs/10.5555/3417699.3417700)
   * Michael Shindler, **Matthew Ferland**, Aaron Cote, and Olivera Grujic. "Experience Report: Preemptive Final Exams for Computer Science Theory Classes." The Journal of Computing Sciences in Colleges (2020): 9.
+{: reversed="reversed"}
+
+## Student Mentorship
+
+### CS Theory
+
 {: reversed="reversed"}
