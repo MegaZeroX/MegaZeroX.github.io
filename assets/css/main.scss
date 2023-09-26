@@ -46,6 +46,7 @@
 
 html {
     scroll-padding-top: 100px; /* Replace with your fixed navbar height */
+    overflow: initial !important;
 }
 
 body {
