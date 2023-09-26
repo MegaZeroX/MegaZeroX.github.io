@@ -23,3 +23,10 @@ My research is primarily in CS Theory and CS Education. In CS Theory, my researc
     * Semesters: Fall 2020 (TA), Summer 2021 (TA)
   * [CSCI 270: Introduction to Algorithms](https://classes.usc.edu/term-20231/course/csci-270/)
     * Semesters: Fall 2018 (TA), Fall 2019 (TA)
+
+## Research
+
+0. first item
+0. second item
+0. another item
+{: reversed="reversed"}
