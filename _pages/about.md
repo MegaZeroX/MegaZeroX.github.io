@@ -104,3 +104,10 @@ My research is primarily in CS Theory and CS Education. In CS Theory, my researc
 
 ## Awards
 * USC Best Research Assistant, 2022
+
+## Education
+* B.S. in Computer Science, Plymouth State University, 2018
+* M.S. in Computer Science, University of Southern California, 2021
+* Ph.D in Computer Science, University of Southern California, 2024 (expected)
+  * Advised by Shanghua Teng 
+
