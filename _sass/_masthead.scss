@@ -19,7 +19,6 @@
     padding-top: 0;
     font-family: $sans-serif-narrow;
     height: 100px;
-    scroll-margin-top: 70px;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
