@@ -44,11 +44,7 @@
   margin-top: 3em;
 }
 
-html {
-    scroll-padding-top: 100px; /* Replace with your fixed navbar height */
-    overflow: initial !important;
-}
-
-body {
-    margin-top: 100px; /* Replace with your fixed navbar height */
+h2 {
+  padding-top: 60px;
+  margin-top: -60px;
 }
