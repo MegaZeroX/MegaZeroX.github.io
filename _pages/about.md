@@ -27,7 +27,6 @@ My research is primarily in CS Theory and CS Education. In CS Theory, my researc
 ## Papers
 
 0. [What is an Algorithms Course? Survey Results of Introductory Undergraduate Algorithms Courses in the US](https://dl.acm.org/doi/10.1145/3545945.3569820)
-
 Michael Luu, **Matthew Ferland**, Varun Nagaraj Rao, Arushi Arora, Randy Huynh, Frederick Reiber, Jennifer Wong-Ma, and Michael Shindler. "What is an Algorithms Course? Survey Results of Introductory Undergraduate Algorithms Courses in the US." In Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023) V. 1, pp. 284-290. 2023. DOI: 10.1145/3545945.3569820
 0. second item
 0. another item
