@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "service and awards"
-permalink: /service and awards/
+permalink: /service/
 author_profile: true
 redirect_from:
   - /resume
