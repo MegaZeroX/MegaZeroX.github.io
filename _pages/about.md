@@ -47,5 +47,16 @@ My research is primarily in CS Theory and CS Education. In CS Theory, my researc
 ## Student Mentorship
 
 ### CS Theory
+* Vikram Kher (now at Yale)
+*	Aki Hasgegawa (current student)
+
+### CS Education
+*	Jee Kim (now at WNC & Associates)
+*	Michael Luu (now at LeaseCalcs)
+*	Mia Markovic (now at Georgia Tech)
+*	Natalia Pinpin (now at Ezoic)
+*	Freddy Reibar (now at Boston University)
+*	Arushi Arora (current student)
+
 
 {: reversed="reversed"}
