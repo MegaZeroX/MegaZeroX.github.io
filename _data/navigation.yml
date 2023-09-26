@@ -1,17 +1,17 @@
 # main links links
 main:
+  - title: "Teaching"
+    url: /#teaching    
+
   - title: "Research"
     url: /#papers
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /#talks-outside-of-publication-venues   
     
   - title: "Service and Awards"
-    url: /service/
+    url: /#reviewer-experience
 
   - title: "Education"
-    url: /education/
+    url: /#education
     
