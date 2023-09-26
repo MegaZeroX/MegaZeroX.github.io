@@ -43,3 +43,11 @@
 #main {
   margin-top: 3em;
 }
+
+html {
+    scroll-padding-top: 100px; /* Replace with your fixed navbar height */
+}
+
+body {
+    margin: 100px auto 0; /* Replace with your fixed navbar height */
+}
