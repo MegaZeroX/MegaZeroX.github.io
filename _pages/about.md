@@ -88,3 +88,19 @@ My research is primarily in CS Theory and CS Education. In CS Theory, my researc
   * Title: Applying Heuristics in Combinatorial Games
   * Date: April 29th, 2017
   *	Description: Using heuristic strategies currently applied in Chess and Go to learn about combinatorial games.
+ 
+## Reviewer Experience
+* SIGCSE 2024
+* CCSCNE 2023
+* SIGCSE 2023
+* ISAAC 2020
+  
+## Other Service
+* CS PhD Council, Fall 2019 - Spring 2020
+* CS Theory Lunch Organizer, Fall 2019 - Spring 2020
+* USC Discovery Program, Summer 2019
+  * A 2 week summer program for students from the underserved areas around USC
+* USC Grade Appearl Committee, Spring 2019
+
+## Awards
+* USC Best Research Assistant, 2022
