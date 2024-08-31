@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Math.random()</h2>
+
+<p>Math.random() returns a random number between 0 (included) and 1 (excluded):</p>
+
+<p id="demo"></p>
+
+<button onclick="displayText()">Generate number</button>
+
+<script>
+function displayText() {
+  x =  Math.random();
+  y = 0;
+  if(x > 0.999){
+    y = 10;
+  }
+  else if (y > 0.995){
+    y = 9;
+  }
+  else if (y > 0.99){
+    y = 8;
+  }
+  else if (y > 0.95){
+    y = 7;
+  }
+  else if (y > 0.9){
+    y = 6;
+  }
+  else if (y > 0.85){
+    y = 5;
+  }
+  else if (y > 0.8){
+    y = 4;
+  }
+  else if (y > 0.6){
+    y = 3;
+  }
+  else if (y > 0.4){
+    y = 2;
+  }
+  else if (y > 0.2){
+    y = 1;
+  }
+  else{
+    y = 0;
+  }
+  document.getElementById("demo").innerHTML = y;
+}
+</script>
+
+</body>
+</html>
