@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
-
-<h2>Random number generator</h2>
-
-<p>Generates a random number between 1 and 10.</p>
-
-<p id="left">Left: </p>
-<p id="right">Right: </p>
-
-<button onclick="gen">Generate numbers</button>
-<button onclick="displayLeft">Display Left</button>
-<button onclick="displayRight">Display Right</button>
-<button onclick="hideLeft">Hide Left</button>
-<button onclick="hideRight">Hide Right</button>
-
-<script>
+  <script>
 left = -1;
 right = -1;
 function gen() {
@@ -75,6 +60,81 @@ function hideRight(){
   console.log("");
 }
 </script>
+<body>
+
+<h2>Random number generator</h2>
+
+<p>Generates a random number between 1 and 10.</p>
+
+<p id="left">Left: </p>
+<p id="right">Right: </p>
+
+<button onclick="gen()">Generate numbers</button>
+<button onclick="displayLeft()">Display Left</button>
+<button onclick="displayRight()">Display Right</button>
+<button onclick="hideLeft()">Hide Left</button>
+<button onclick="hideRight()">Hide Right</button>
+
+<!-- <script>
+left = -1;
+right = -1;
+function gen() {
+  x =  Math.random();
+  y = 0;
+  if(x > 0.9){
+    y = 1;
+  }
+  else if (x > 0.8){
+    y = 2;
+  }
+  else if (x > 0.7){
+    y = 3;
+  }
+  else if (x > 0.6){
+    y = 4;
+  }
+  else if (x > 0.5){
+    y = 5;
+  }
+  else if (x > 0.4){
+    y = 6;
+  }
+  else if (x > 0.3){
+    y = 7;
+  }
+  else if (x > 0.2){
+    y = 8;
+  }
+  else if (x > 0.1){
+    y = 9;
+  }
+  else{
+    y = 10;
+  }
+  left = y;
+  x =  Math.random();
+  right = Math.ceil(x*10;)
+  //document.getElementById("demo").innerHTML = y;
+  console.log(left);
+  console.log(right);
+}
+function displayLeft(){
+  document.getElementById("left").innerHTML = "Left: " + left;
+  console.log("Left: " + left);
+}
+function displayRight(){
+  document.getElementById("right").innerHTML = "Right: " + right;
+  console.log("Right: " + right);
+}
+function hideLeft(){
+  document.getElementById("left").innerHTML = "";
+  console.log("");
+}
+function hideRight(){
+  document.getElementById("right").innerHTML = "";
+  console.log("");
+}
+</script> -->
 
 </body>
 </html>
