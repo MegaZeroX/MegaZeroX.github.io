@@ -6,12 +6,19 @@
 
 <p>Generates a random number between 0 and 10, with higher numbers being increasingly rare.</p>
 
-<p id="demo"></p>
+<p id="left">Left: </p>
+<p id="right"><Right: </p>
 
-<button onclick="displayText()">Generate number</button>
+<button onclick="gen()">Generate numbers</button>
+<button onclick="displayLeft()">Display Left</button>
+<button onclick="displayRight()">Display Left</button>
+<button onclick="hideLeft()">Hide Left</button>
+<button onclick="hideRight()">Hide Right</button>
 
 <script>
-function displayText() {
+left = -1;
+right = -1;
+function gen() {
   x =  Math.random();
   y = 0;
   if(x > 0.9){
@@ -44,7 +51,22 @@ function displayText() {
   else{
     y = 10;
   }
-  document.getElementById("demo").innerHTML = y;
+  left = y;
+  x =  Math.random();
+  right = Math.ceil(x*10;)
+  //document.getElementById("demo").innerHTML = y;
+}
+function displayLeft(){
+  document.getElementById("left").innerHTML = "Left: " + y;
+}
+function displayRight(){
+  document.getElementById("right").innerHTML = "Right: " + y;
+}
+function hideLeft(){
+  document.getElementById("left").innerHTML = "";
+}
+function hideRight(){
+  document.getElementById("right").innerHTML = "";
 }
 </script>
 
